@@ -10,8 +10,8 @@
    }
    
    header {
-   height:220px;
-   width:750px;
+   height:260px;
+   width:950px;
    background-color:#ff0000;
    color:#fff;
    }
@@ -65,7 +65,7 @@
    
    footer {
    height:85px;
-   width:750px;
+   width:950px;
    color:#a52a2a;
    background-color:#000000;
    }
