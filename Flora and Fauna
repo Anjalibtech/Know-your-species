@@ -78,7 +78,7 @@
    <li>Flora<div class="flora"><ul><li>Endangerd</li>
    <li>Extinct</li></ul></div></li>
    <li>Fauna<div class="fauna"><ul><li>Endangerd</li>
-   <li>Extinct</li></ul></div></li></ul>  
+   <li>Extinct</li></ul></div></li></ul></div>  
   </header> 
   <div class="main">
    <div class="body-contents">
@@ -121,12 +121,12 @@
     <img src="https://blog.nurserylive.com/wp-content/uploads/2016/08/92751924039934353.jpg">
     <h4>4.Cooksonia</h4>
     <p>Cooksonia were primarily land plants known to have existed on earth about 425 million years ago. They thrived in the present regions of Australia and Britain. They were small and lacked leaves, flowers and roots. They only had slender stalks.</p>
-    <img src="https://blog.nurserylive.com/wp-content/uploads/2016/08/Cooksonia_pertoni-e1471385475582.png".>
+    <img src="https://blog.nurserylive.com/wp-content/uploads/2016/08/Cooksonia_pertoni-e1471385475582.png.">
     <h4>5.Rhynia</h4>
     <p>Rhynia were vascular plants that existed hundreds of years ago and belonged to the bryophytes category of plants. They were bisexual in nature and grew close to the other vascular plants.</p>
     <img src="https://blog.nurserylive.com/wp-content/uploads/2016/08/Rhynia_reconstruction-e1471385665178.jpg">
     <h3>Reasons of Extinction</h3>
-    <p>. The main reasons for plant extinction in both groups of regions are agriculture and urbanization. In hotspot regions, one more threat caused plant extinction were biological invasions of plants and animals penetrated to new habitats and often caused harm to local flora and fauna. In biodiversity coldspots, changes in the hydrological regime of habitats (such as new dams that negatively affect the functioning of water bodies) may also cause plant extinctions.</p>
+    <p>The main reasons for plant extinction in both groups of regions are agriculture and urbanization. In hotspot regions, one more threat caused plant extinction were biological invasions of plants and animals penetrated to new habitats and often caused harm to local flora and fauna. In biodiversity coldspots, changes in the hydrological regime of habitats (such as new dams that negatively affect the functioning of water bodies) may also cause plant extinctions.</p>
     <h1>Fauna</h1>
    <p>Fauna is all of the animal life present in a particular region or time. The corresponding term for plants is flora.</p>
    <p>The various human activities have led to their extinction and made them Endangeres.</p>
@@ -147,7 +147,7 @@
    <img src="https://onekindplanet.org/wp-content/uploads/2016/09/az-saola-copyright-protected-small.jpg">
    <h4>5.North Atlantic right whale</h4>
    <p>It was whalers that gave the North Atlantic right whale its name. They are gentle giants that stay close to coasts and spend a lot of time at the surface skim feeding on zooplankton, all of which makes them an easy target and the ‘right whale to hunt'. There are currently only around 400 of them left, and only about 100 breeding females.</p>
-   <img src="https://onekindplanet.org/wp-content/uploads/2020/06/NA_right_whale.jpg"></ul>
+   <img src="https://onekindplanet.org/wp-content/uploads/2020/06/NA_right_whale.jpg">
    <h3>Reasons of Endangerement</h3>
    <p>The reasons for these species being Endangered are factors such as habitat loss, poaching and invasive species.
    <h2>Extinct</h2>
@@ -180,5 +180,6 @@ Although Thylacine's looked fierce, they were actually quite timid and, accordin
   </div>
   <footer>
    <div class="footer-logo">Made By:Anjali Gupta <br>E-mail:anjaligupta2810cd@gmail.com</div>
+   </footer>
 </body>
 </html>
