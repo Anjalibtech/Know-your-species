@@ -77,7 +77,7 @@
    <div class="header-list"><ul>
    <li><a href="https://anjalibtech.github.io/Flora/">Flora</a><div class="flora"><ul><li>Endangerd</li>
    <li>Extinct</li></ul></div></li>
-   <li>Fauna<div class="fauna"><ul><li>Endangerd</li>
+   <li><a href="https://anjalibtech.github.io/Fauna/">Fauna</a><div class="fauna"><ul><li>Endangerd</li>
     <li>Extinct</li></ul></div></li></ul></div>  
   </header> 
   <div class="main">
