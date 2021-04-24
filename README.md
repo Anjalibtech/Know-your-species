@@ -82,7 +82,7 @@
   </header> 
   <div class="main">
    <div class="body-contents">
-    <h1 text-align="right">Humans are not the only one living on Earth</h1>
+    <h1 text-align="left">Humans are not the only one living on Earth</h1>
    </div>
    <div class="contents">
     <h1>Flora</h1>
